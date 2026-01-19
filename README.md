@@ -71,6 +71,10 @@ To deploy for public use:
 2.  Update `SERVER_URL` in `extension/src/config.js` to your deployed URL (e.g., `https://my-app.onrender.com`).
 3.  Rebuild the extension (`npm run build`).
 
+## 📸 Screenshots
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/cb304db5-40eb-4f4b-9ba4-d77caf4ee8dc" />
+
+
 ## 📜 License
 
 MIT License. Feel free to use and modify!
