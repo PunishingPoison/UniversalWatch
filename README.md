@@ -4,11 +4,11 @@ A powerful Chrome Extension that lets you watch videos with friends in perfect s
 
 ## Features
 
-- 🎥 **Synchronized Playback**: Play, pause, and seek videos in sync across all users.
-- 📹 **Video Call**: Real-time video chat using WebRTC (PeerJS).
-- 💬 **Live Chat**: Built-in messaging system.
-- 🎨 **Premium UI**: Sleek, glassmorphic design that feels native.
-- 🔄 **Auto-Reconnection**: Robust handling of network drops and page reloads.
+-  **Synchronized Playback**: Play, pause, and seek videos in sync across all users.
+-  **Video Call**: Real-time video chat using WebRTC (PeerJS).
+-  **Live Chat**: Built-in messaging system.
+-  **Premium UI**: Sleek, glassmorphic design that feels native.
+-  **Auto-Reconnection**: Robust handling of network drops and page reloads.
 
 ## Project Structure
 
