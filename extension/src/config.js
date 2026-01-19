@@ -4,7 +4,7 @@
 // e.g. 'https://my-universal-watch-server.onrender.com'
 // Keep as 'http://localhost:3000' for local development
 
-export const SERVER_URL = 'https://universal-watch-server.onrender.com';
+export const SERVER_URL = 'https://localhost:8000';
 
 // WebRTC Configuration (Optional: TURN servers)
 export const PEER_CONFIG = {
